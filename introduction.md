@@ -6,3 +6,4 @@ Favorite path Ruby!
 * woo2
 * woo codeschool
 * more
+* love rebase
